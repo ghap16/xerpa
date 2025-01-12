@@ -1,0 +1,4 @@
+ENVIRONMENT=local
+SECRET_KEY=secret_key
+DEBUG=True
+DB_NAME=getxerpa_database

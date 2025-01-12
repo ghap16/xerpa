@@ -1,0 +1,15 @@
+[
+    {"id": "35a7e6a6-1f43-47e9-b869-e8b2b5413de9","name": "Entretenimiento & Recreación", "type": "EXPENSE"},
+    {"id": "24b9c8a6-d96b-431c-ab24-55ae046710e8","name": "Hogar & Familia", "type": "EXPENSE"},
+    {"id": "42468b66-36bc-4b9b-bcba-4251e709ddb2","name": "Salud & Bienestar", "type": "EXPENSE"},
+    {"id": "3e72b553-0b5b-484b-81e5-397a93c42627","name": "Cuentas & Servicios", "type": "EXPENSE"},
+    {"id": "484e062a-da5f-41aa-a8e9-0517290d9103","name": "Supermercados & Tiendas de alimentos", "type": "EXPENSE"},
+    {"id": "907bf7d5-c704-48b9-a7fb-4bf7778e191d","name": "Restaurantes & Bares", "type": "EXPENSE"},
+    {"id": "6f6ae512-99a2-40a1-8c00-b473133efa0b","name": "Shopping", "type": "EXPENSE"},
+    {"id": "5e7db1cf-9654-428f-85ef-a7263cd29816","name": "Vacaciones & Viajes", "type": "EXPENSE"},
+    {"id": "506d31a2-e098-4515-98ae-85326ea566ea","name": "Automóvil & Transporte", "type": "EXPENSE"},
+    {"id": "8f93745f-704e-4476-948f-5c9334c2b732","name": "Transferencias", "type": "INCOME"},
+    {"id": "be0ccd96-6e82-47c6-a410-2c5686b14aa1","name": "Sueldos y Salarios", "type": "INCOME"},
+    {"id": "f24a6d2a-81dd-40a5-ba5b-d1b95931cf65","name": "Rendimientos", "type": "INCOME"},
+    {"id": "9a4bee93-ef24-477f-87fe-9354bf442040","name": "Regalos & otros ingresos", "type": "INCOME"}
+]
