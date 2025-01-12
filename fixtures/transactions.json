@@ -1,0 +1,802 @@
+[
+    {
+        "description": "Transferencia internacional recibida",
+        "amount": 767.78
+    },
+    {
+        "description": "Transferencia de dinero a amigo - Préstamo personal",
+        "amount": -449.15
+    },
+    {
+        "description": "CRUZVERDE CV9081",
+        "amount": 666.08
+    },
+    {
+        "description": "Suscripción mensual",
+        "amount": -163.52
+    },
+    {
+        "description": "EASY CALAMA",
+        "amount": 784.83
+    },
+    {
+        "description": "Pago en tienda de productos ecológicos",
+        "amount": -249.71
+    },
+    {
+        "description": "Pago de matrícula universitaria",
+        "amount": 858.19
+    },
+    {
+        "description": "Pago en restaurante de comida rápida",
+        "amount": 586.93
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal W",
+        "amount": 154.25
+    },
+    {
+        "description": "Pago en tienda de ropa casual",
+        "amount": 316.86
+    },
+    {
+        "description": "Compra de entradas para espectáculo teatral",
+        "amount": 505.03
+    },
+    {
+        "description": "Transferencia a cuenta de ahorro para educación superior",
+        "amount": 603.11
+    },
+    {
+        "description": "Pago por suscripción a aplicación de bienestar personal",
+        "amount": 962.09
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal G",
+        "amount": -414.68
+    },
+    {
+        "description": "Compra en tienda de antigüedades",
+        "amount": 555.54
+    },
+    {
+        "description": "Transferencia para pago de renta mensual",
+        "amount": 689.2
+    },
+    {
+        "description": "Pago en tienda de zapatos deportivos",
+        "amount": -307.9
+    },
+    {
+        "description": "Pago en tienda de tecnología - Compra de gadgets",
+        "amount": 903.91
+    },
+    {
+        "description": "Pago por suscripción a plataforma de videojuegos",
+        "amount": 921.26
+    },
+    {
+        "description": "EXPRESS ANDRNS MELLADO",
+        "amount": -92.97
+    },
+    {
+        "description": "Pago de cuota mensual a empresa de telecomunicaciones",
+        "amount": 30.46
+    },
+    {
+        "description": "Pago por servicios de internet",
+        "amount": -369.95
+    },
+    {
+        "description": "Pago por suscripción a plataforma de videojuegos",
+        "amount": 2.63
+    },
+    {
+        "description": "Compra de entradas de cine - Película XYZ",
+        "amount": 179.96
+    },
+    {
+        "description": "Transferencia a cuenta de fondos para compra de vehículo",
+        "amount": 436.56
+    },
+    {
+        "description": "EASY ALTO LAS CONDES",
+        "amount": 771.69
+    },
+    {
+        "description": "Retiro de cajero automático",
+        "amount": -408.93
+    },
+    {
+        "description": "Pago de suscripción a plataforma de deportes en vivo",
+        "amount": 198.48
+    },
+    {
+        "description": "Pago de factura de televisión por cable",
+        "amount": 674.48
+    },
+    {
+        "description": "PAYU *UBER TR",
+        "amount": 429.15
+    },
+    {
+        "description": "SALCOBRAND 433 JUMBO CALA",
+        "amount": 831.16
+    },
+    {
+        "description": "Pago en tienda de zapatos deportivos",
+        "amount": 5.35
+    },
+    {
+        "description": "Pago de cuota mensual de tarjeta de crédito",
+        "amount": 307.88
+    },
+    {
+        "description": "Pago por suscripción mensual a aplicación de productividad",
+        "amount": -206.71
+    },
+    {
+        "description": "Pago de cuota de préstamos para coche",
+        "amount": 266.55
+    },
+    {
+        "description": "Cargo por servicio de música en línea",
+        "amount": 374.55
+    },
+    {
+        "description": "Depósito en efectivo",
+        "amount": -266.79
+    },
+    {
+        "description": "Pago de suscripción a plataforma de educación online",
+        "amount": -105.46
+    },
+    {
+        "description": "UNIRED CL AGUAS ANDINAS",
+        "amount": 834.22
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal T",
+        "amount": -83.75
+    },
+    {
+        "description": "Transferencia para pago de préstamo estudiantil",
+        "amount": 585.65
+    },
+    {
+        "description": "Compra en supermercado Carrefour - Productos alimenticios",
+        "amount": 715.88
+    },
+    {
+        "description": "Pago en tienda de ropa infantil",
+        "amount": -355.65
+    },
+    {
+        "description": "UNIMARC ATACAMA",
+        "amount": 182.43
+    },
+    {
+        "description": "Compra de ropa",
+        "amount": 532.56
+    },
+    {
+        "description": "Retiro de efectivo",
+        "amount": -190.65
+    },
+    {
+        "description": "Domino s Pizza Frederi",
+        "amount": -228.18
+    },
+    {
+        "description": "Pago de salario",
+        "amount": -399.55
+    },
+    {
+        "description": "Pago en restaurante de comida rápida",
+        "amount": -58.95
+    },
+    {
+        "description": "Pago de factura de televisión por cable",
+        "amount": 440.61
+    },
+    {
+        "description": "Pago de salario",
+        "amount": -321.63
+    },
+    {
+        "description": "Compra en tienda de artículos de camping",
+        "amount": 425.54
+    },
+    {
+        "description": "Pago por servicios médicos",
+        "amount": 104.6
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal AB",
+        "amount": 447.6
+    },
+    {
+        "description": "Pago de seguro de salud",
+        "amount": -35.51
+    },
+    {
+        "description": "EASY ANTOFAGASTA",
+        "amount": 328.77
+    },
+    {
+        "description": "PAYPAL *DOMINOS",
+        "amount": -454.81
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal AE",
+        "amount": -75.84
+    },
+    {
+        "description": "Transferencia recibida",
+        "amount": 406.72
+    },
+    {
+        "description": "Retiro de efectivo en ventanilla - Sucursal D",
+        "amount": 375.52
+    },
+    {
+        "description": "Compra de ropa",
+        "amount": 318.11
+    },
+    {
+        "description": "Pago en línea Steam - Videojuegos",
+        "amount": 944.86
+    },
+    {
+        "description": "Transferencia a cuenta de ahorro a corto plazo",
+        "amount": 901.4
+    },
+    {
+        "description": "DOMINO S PIZZA LA 10",
+        "amount": 683.04
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal A",
+        "amount": -194.17
+    },
+    {
+        "description": "PAYPAL *UBERBV EATS",
+        "amount": 676.35
+    },
+    {
+        "description": "Pago por servicios de mantenimiento del hogar",
+        "amount": 515.9
+    },
+    {
+        "description": "Compra en línea en tienda electrónica - Accesorios para computadora",
+        "amount": -145.36
+    },
+    {
+        "description": "Compra en línea en tienda de cámaras fotográficas",
+        "amount": 560.29
+    },
+    {
+        "description": "Transferencia de dinero a cuenta de inversión",
+        "amount": 332.84
+    },
+    {
+        "description": "UBER* EATS",
+        "amount": 954.56
+    },
+    {
+        "description": "Compra en línea en tienda de moda - Ropa y accesorios",
+        "amount": 635.64
+    },
+    {
+        "description": "Compra de entradas a espectáculo musical",
+        "amount": 626.76
+    },
+    {
+        "description": "Retiro de efectivo en ventanilla - Sucursal D",
+        "amount": -473.59
+    },
+    {
+        "description": "Pago de factura de electricidad",
+        "amount": -346.51
+    },
+    {
+        "description": "Transferencia para pagar deuda de tarjeta de crédito",
+        "amount": 210.06
+    },
+    {
+        "description": "EXPRESS ANDRNS MELLADO",
+        "amount": 957.16
+    },
+    {
+        "description": "Cargo por suscripción mensual a periódico digital",
+        "amount": 19
+    },
+    {
+        "description": "Pago en línea Amazon - Compra de libros",
+        "amount": 642.48
+    },
+    {
+        "description": "Compra en tienda de artículos de oficina",
+        "amount": -414.57
+    },
+    {
+        "description": "C. VERDE JUMBO RANCAGUA",
+        "amount": 701.96
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal N",
+        "amount": -399.51
+    },
+    {
+        "description": "EXPRESS - LIDER CONCE TRE",
+        "amount": 558.92
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal F",
+        "amount": 388.43
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal W",
+        "amount": -347.96
+    },
+    {
+        "description": "Pago TDC ITAU",
+        "amount": 914.96
+    },
+    {
+        "description": "Transferencia para pago de renta mensual",
+        "amount": 245.5
+    },
+    {
+        "description": "Pago de factura teléfono móvil",
+        "amount": -8.9
+    },
+    {
+        "description": "Pago de cuota de membresía en asociación profesional",
+        "amount": -206.19
+    },
+    {
+        "description": "PAYPAL *UBER BV",
+        "amount": 593.91
+    },
+    {
+        "description": "Pago por comida en restaurante",
+        "amount": 927.43
+    },
+    {
+        "description": "Pago de factura del servicio de gas",
+        "amount": 119.61
+    },
+    {
+        "description": "Pago de cuota mensual de tarjeta de crédito",
+        "amount": -169.71
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal K",
+        "amount": 692.8
+    },
+    {
+        "description": "Pago de suscripción a plataforma de fitness",
+        "amount": 44.12
+    },
+    {
+        "description": "PETROBRAS 11 ORTE/7 SU",
+        "amount": -439.04
+    },
+    {
+        "description": "Transferencia entre cuentas",
+        "amount": 519.97
+    },
+    {
+        "description": "Pago por servicios de mantenimiento del hogar",
+        "amount": 739.98
+    },
+    {
+        "description": "Transferencia a cuenta de fondos para compra de vehículo",
+        "amount": 908.49
+    },
+    {
+        "description": "Pago de seguro de hogar",
+        "amount": 110.03
+    },
+    {
+        "description": "PAYPAL *UBER BR",
+        "amount": -450.03
+    },
+    {
+        "description": "Pago en tienda de moda masculina",
+        "amount": 427.78
+    },
+    {
+        "description": "Pago por suscripción a aplicación de bienestar personal",
+        "amount": 205.66
+    },
+    {
+        "description": "Cargo por uso de cajero automático en otra ubicación",
+        "amount": 618.93
+    },
+    {
+        "description": "DOMINO'S 2759",
+        "amount": 446.84
+    },
+    {
+        "description": "Pago de cuota mensual de tarjeta de crédito",
+        "amount": 797.54
+    },
+    {
+        "description": "Cargo por uso de cajero automático en otra red",
+        "amount": -376.92
+    },
+    {
+        "description": "Pago en tienda de ropa - Compra de prendas",
+        "amount": 836.19
+    },
+    {
+        "description": "Transferencia a cuenta de ahorro para retiro",
+        "amount": -220.08
+    },
+    {
+        "description": "Compra de equipo electrónico",
+        "amount": 806.68
+    },
+    {
+        "description": "Pago de cuota mensual - Membresía a club deportivo",
+        "amount": 452.39
+    },
+    {
+        "description": "EXPRESS CIUDAD DEL ES",
+        "amount": -86.47
+    },
+    {
+        "description": "Pago por servicios de mensajería",
+        "amount": 188.88
+    },
+    {
+        "description": "Pago TDC ITAU",
+        "amount": -440.39
+    },
+    {
+        "description": "Compra de entradas a evento cultural",
+        "amount": 68.37
+    },
+    {
+        "description": "Compra en línea en tienda de moda - Ropa y accesorios",
+        "amount": 828.61
+    },
+    {
+        "description": "Compra en tienda de artículos de camping",
+        "amount": -194.62
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal U",
+        "amount": 742.32
+    },
+    {
+        "description": "Pago de suscripción a servicio de noticias online",
+        "amount": -225.57
+    },
+    {
+        "description": "Transferencia de dinero a cuenta para ahorro a largo plazo",
+        "amount": 185.36
+    },
+    {
+        "description": "EXPRESS - LIDER",
+        "amount": 942.57
+    },
+    {
+        "description": "Pago por comida",
+        "amount": 595.57
+    },
+    {
+        "description": "EASY CALAMA",
+        "amount": 85.94
+    },
+    {
+        "description": "DOMINO S PIZZA LA 10",
+        "amount": 171.93
+    },
+    {
+        "description": "UNIMARC ANDALUE (CABRERO)",
+        "amount": 531.25
+    },
+    {
+        "description": "Compra en supermercado",
+        "amount": -474.55
+    },
+    {
+        "description": "EXPRESS CIUDAD DEL ES",
+        "amount": -410.34
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal L",
+        "amount": -471.71
+    },
+    {
+        "description": "EXPRESS CIUD DE LOS VALLE",
+        "amount": 621.27
+    },
+    {
+        "description": "Pago en cafetería - Café y snacks",
+        "amount": -114.13
+    },
+    {
+        "description": "C. VERDE JUMBO V DEL MAR",
+        "amount": -226.02
+    },
+    {
+        "description": "EXPRESS ANDRNS MELLADO",
+        "amount": -199.63
+    },
+    {
+        "description": "Depósito en cuenta",
+        "amount": -128.24
+    },
+    {
+        "description": "Pago por reparación de auto",
+        "amount": 48.08
+    },
+    {
+        "description": "Pago de suscripción a revista de tecnología",
+        "amount": 298.91
+    },
+    {
+        "description": "PETROBRAS 11 ORTE/7 SU",
+        "amount": 960.27
+    },
+    {
+        "description": "AGUAS ANDINAS",
+        "amount": 888.59
+    },
+    {
+        "description": "Compra en línea en tienda de accesorios para móviles",
+        "amount": 144.65
+    },
+    {
+        "description": "Compra de entradas de cine - Película XYZ",
+        "amount": 192.78
+    },
+    {
+        "description": "Pago de tarjeta de crédito",
+        "amount": 16.94
+    },
+    {
+        "description": "Cargo por servicio de música en línea",
+        "amount": 307.03
+    },
+    {
+        "description": "Pago de cuota de préstamo hipotecario",
+        "amount": 225.54
+    },
+    {
+        "description": "Compra en supermercado",
+        "amount": -138.33
+    },
+    {
+        "description": "CRUZVERDE CV9087",
+        "amount": 548.68
+    },
+    {
+        "description": "PAYPAL *UBEREATS AU",
+        "amount": -474.77
+    },
+    {
+        "description": "Compra de material de oficina",
+        "amount": -381.69
+    },
+    {
+        "description": "Transferencia recibida",
+        "amount": -459.91
+    },
+    {
+        "description": "Cargo por uso de cajero automático en otra ubicación",
+        "amount": 531.58
+    },
+    {
+        "description": "EASY ALTO LAS CONDES",
+        "amount": 296.45
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal X",
+        "amount": 556.01
+    },
+    {
+        "description": "Compra en línea en tienda de tecnología para el hogar",
+        "amount": -297.38
+    },
+    {
+        "description": "Pago de suscripción a revista de tecnología",
+        "amount": 263.14
+    },
+    {
+        "description": "Compra en línea en tienda de moda - Ropa y accesorios",
+        "amount": -487.93
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal U",
+        "amount": -423.49
+    },
+    {
+        "description": "C. VERDE JUMBO V DEL M",
+        "amount": -353.65
+    },
+    {
+        "description": "Transferencia internacional recibida",
+        "amount": 7.14
+    },
+    {
+        "description": "Pago de factura del servicio de gas",
+        "amount": -467.71
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal R",
+        "amount": -455.11
+    },
+    {
+        "description": "Pago por servicios de mantenimiento del hogar",
+        "amount": 849.06
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal G",
+        "amount": 97.57
+    },
+    {
+        "description": "Pago en tienda de tecnología - Compra de gadgets",
+        "amount": -329.88
+    },
+    {
+        "description": "Depósito en efectivo - Cajero automático sucursal K",
+        "amount": -83.11
+    },
+    {
+        "description": "FACEBK 85ENTJXAQ2",
+        "amount": 652.13
+    },
+    {
+        "description": "Pago de préstamo",
+        "amount": -419.17
+    },
+    {
+        "description": "MP *RECARGA BIP|",
+        "amount": -86.07
+    },
+    {
+        "description": "Pago de suscripción a plataforma de fitness",
+        "amount": 65.04
+    },
+    {
+        "description": "Transferencia de dinero para pago de alquiler",
+        "amount": 65.6
+    },
+    {
+        "description": "Pago en restaurante - Cena con amigos",
+        "amount": 797.09
+    },
+    {
+        "description": "Compra en tienda de artículos de camping",
+        "amount": -10.27
+    },
+    {
+        "description": "Pago de suscripción a plataforma de viajes",
+        "amount": 487.86
+    },
+    {
+        "description": "Compra en supermercado",
+        "amount": 940.08
+    },
+    {
+        "description": "Pago en restaurante - Cena con amigos",
+        "amount": 871.69
+    },
+    {
+        "description": "Transferencia recibida",
+        "amount": -209.76
+    },
+    {
+        "description": "Compra de entradas a parque temático - Viaje familiar",
+        "amount": 172.33
+    },
+    {
+        "description": "Compra en línea en tienda de moda - Ropa y accesorios",
+        "amount": 903.55
+    },
+    {
+        "description": "Pago en restaurante de comida china",
+        "amount": 132.56
+    },
+    {
+        "description": "Transferencia de dinero para pago de alquiler",
+        "amount": -225.23
+    },
+    {
+        "description": "Pago en tienda de moda masculina",
+        "amount": -98.78
+    },
+    {
+        "description": "Compra de equipo electrónico",
+        "amount": 737.73
+    },
+    {
+        "description": "Pago de suscripción de software - Adobe Creative Cloud",
+        "amount": -491.23
+    },
+    {
+        "description": "Compra en tienda de artículos de camping",
+        "amount": 852.8
+    },
+    {
+        "description": "Pago de cuota mensual - Membresía a gimnasio",
+        "amount": -212.44
+    },
+    {
+        "description": "Compra de entradas a exposición de arte",
+        "amount": -163.47
+    },
+    {
+        "description": "Pago por comida",
+        "amount": 850.55
+    },
+    {
+        "description": "DOMINO S PIZZA LA 10",
+        "amount": -221.99
+    },
+    {
+        "description": "UNIMARC ANTOFAGASTA",
+        "amount": 563.52
+    },
+    {
+        "description": "Pago TDC ITAU",
+        "amount": 506.44
+    },
+    {
+        "description": "Compra en línea en tienda de cámaras fotográficas",
+        "amount": 903.09
+    },
+    {
+        "description": "Pago en línea Steam - Videojuegos",
+        "amount": -2.19
+    },
+    {
+        "description": "Pago de impuestos",
+        "amount": 607.93
+    },
+    {
+        "description": "CRUZVERDE CV9087",
+        "amount": 20.05
+    },
+    {
+        "description": "Compra en línea en tienda de moda - Ropa y accesorios",
+        "amount": 15.44
+    },
+    {
+        "description": "EASY ALTO LAS CONDES",
+        "amount": 685.19
+    },
+    {
+        "description": "Transferencia para pago de seguro de vida",
+        "amount": 240.01
+    },
+    {
+        "description": "Compra en tienda de electrodomésticos - Artículo A",
+        "amount": 847.66
+    },
+    {
+        "description": "Retiro de efectivo en cajero automático - Sucursal H",
+        "amount": 967.13
+    },
+    {
+        "description": "Compra de entradas para concierto - Artista ABC",
+        "amount": 22.29
+    },
+    {
+        "description": "Pago de suscripción a servicio de juegos en línea",
+        "amount": 295.27
+    },
+    {
+        "description": "Pago de tarjeta de crédito",
+        "amount": 757.76
+    },
+    {
+        "description": "Compra de boletos de avión - Viaje a Cancún",
+        "amount": -132.18
+    }
+]

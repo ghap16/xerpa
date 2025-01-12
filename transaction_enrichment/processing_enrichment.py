@@ -102,7 +102,7 @@ def get_merchant() -> list:
                 "name": m.merchant_name,
                 "keywords": [kw.keyword for kw in m.keywords_list],
                 "category_id": m.category_id,
-                "category_type": m.category.type,
+                "category_type": m.category.type if m.category else None,
             }
             for m in merchants
         ]
